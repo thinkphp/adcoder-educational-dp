@@ -1,1 +1,1 @@
-# adcoder-educational-dp
+## Educational DP Contest
